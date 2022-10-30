@@ -1,0 +1,658 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
+	<title>Stars (1)-svg</title>
+	<style>
+		.s0 { fill: #6a6e6f } 
+		.s1 { fill: #585b5c } 
+		.s2 { fill: #8eb9d4 } 
+		.s3 { fill: #b8bab6 } 
+		.s4 { fill: #679acb } 
+		.s5 { fill: #7796b3 } 
+		.s6 { fill: #828685 } 
+		.s7 { fill: #a0a3a0 } 
+		.s8 { fill: #90b0c1 } 
+		.s9 { fill: #c0c3c0 } 
+		.s10 { fill: #badde4 } 
+		.s11 { fill: #ced2cf } 
+		.s12 { fill: #acaeab } 
+		.s13 { fill: #eff3f0 } 
+		.s14 { fill: #dadcd9 } 
+		.s15 { fill: #dae777 } 
+		.s16 { fill: #607080 } 
+		.s17 { fill: #25425e } 
+		.s18 { fill: #8d908f } 
+		.s19 { fill: #3c4855 } 
+		.s20 { fill: #36393b } 
+		.s21 { fill: #737777 } 
+		.s22 { fill: #4d5252 } 
+		.s23 { fill: #606364 } 
+		.s24 { fill: #434545 } 
+		.s25 { fill: #8d999a } 
+		.s26 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m2561 364l-5-364z"/>
+	<path id="Layer" class="s1" d="m0 1435l310 4zm2243 4h309zm-318 0h284zm-1381 0h226zm280 0h218z"/>
+	<path id="Layer" class="s0" d="m2561 1431v-205z"/>
+	<path id="Layer" class="s1" d="m351 1439h151z"/>
+	<path id="Layer" class="s2" d="m0 481l11 12z"/>
+	<path id="Layer" class="s3" d="m531 0l-5 8-7-8z"/>
+	<path id="Layer" class="s4" d="m0 485l11 8-11 5z"/>
+	<path id="Layer" class="s5" d="m782 1439l8-7 1 7z"/>
+	<path id="Layer" class="s6" d="m1556 0h-8z"/>
+	<path id="Layer" class="s4" d="m1901 143l9 15-10 9-10-9z"/>
+	<path id="Layer" class="s1" d="m655 653l-15 9-7-10 11-9z"/>
+	<path id="Layer" class="s7" d="m1381 1219l-19 5-2-4 13-10z"/>
+	<path id="Layer" class="s5" d="m85 913l-8-9 6-9 9 8zm607-373l-9-8 5-8z"/>
+	<path id="Layer" class="s8" d="m1068 292l-11 12 5-18zm-240 1112l-9 6-6-6 6-6zm-564-1232l10-16 4 4-11 18z"/>
+	<path id="Layer" class="s4" d="m1897 455l-8-15 7-5z"/>
+	<path id="Layer" class="s8" d="m777 771l-6-9 6-6 6 6z"/>
+	<path id="Layer" class="s5" d="m506 481l10-13 6 9-12 8z"/>
+	<path id="Layer" class="s9" d="m907 962l1-15z"/>
+	<path id="Layer" class="s2" d="m1602 1291l-7 3-5-7z"/>
+	<path id="Layer" class="s9" d="m466 1407l-7-8 5-7 7 6z"/>
+	<path id="Layer" class="s10" d="m892 709l3-19 7 7z"/>
+	<path id="Layer" class="s11" d="m828 925l1 21z"/>
+	<path id="Layer" class="s12" d="m2044 220l-6 6-7-4 6-10z"/>
+	<path id="Layer" class="s9" d="m922 764l-9 5-5-6 6-6zm-45 157l5 8-7 5-4-4z"/>
+	<path id="Layer" class="s5" d="m1701 1050l3 8-5 4-4-5z"/>
+	<path id="Layer" class="s13" d="m1990 298l-9 7 4-15z"/>
+	<path id="Layer" class="s3" d="m2433 990l-7 4-4-6 6-4z"/>
+	<path id="Layer" class="s14" d="m456 336l2 11-9-11z"/>
+	<path id="Layer" class="s9" d="m2431 918l8-6 4 4-4 8z"/>
+	<path id="Layer" class="s15" d="m1610 1422l-5-7 5-4z"/>
+	<path id="Layer" class="s11" d="m564 614h-15l7-6z"/>
+	<path id="Layer" class="s15" d="m668 461l-4-4 4-5 4 5z"/>
+	<path id="Layer" class="s2" d="m59 320l-1-15z"/>
+	<path id="Layer" class="s4" d="m717 77l-14-1 5-5z"/>
+	<path id="Layer" class="s13" d="m815 131l-11-2 4-4z"/>
+	<path id="Layer" class="s16" d="m661 782l8 11-15-7z"/>
+	<path id="Layer" class="s17" d="m193 112l-6 3-4-3 5-5z"/>
+	<path id="Layer" class="s8" d="m550 32l-8 6-5-6z"/>
+	<path id="Layer" class="s9" d="m259 964l1 13-6-5z"/>
+	<path id="Layer" class="s3" d="m793 1375l-4 4-6-3z"/>
+	<path id="Layer" class="s13" d="m513 399l2 15z"/>
+	<path id="Layer" class="s11" d="m681 1351l5 9-6 4z"/>
+	<path id="Layer" class="s3" d="m1820 1054l-8 2-2-6 5-3z"/>
+	<path id="Layer" class="s12" d="m1331 1210l3 5-6 7z"/>
+	<path id="Layer" class="s8" d="m1053 399l5 11-4 4zm342 811l-5 3-4-5z"/>
+	<path id="Layer" class="s9" d="m1395 1152l-4 3-4-5 4-2z"/>
+	<path id="Layer" class="s5" d="m2269 466h-11l4-4z"/>
+	<path id="Layer" class="s11" d="m806 889l14 4z"/>
+	<path id="Layer" class="s14" d="m1451 225l-8 5-3-4 4-6z"/>
+	<path id="Layer" class="s5" d="m1905 959l-4 4-5-4z"/>
+	<path id="Layer" class="s18" d="m2017 511h-19z"/>
+	<path id="Layer" class="s8" d="m540 892l-2-13 6 4z"/>
+	<path id="Layer" class="s5" d="m666 744l4 4-3 5z"/>
+	<path id="Layer" class="s2" d="m2353 1380l-7 5-3-4 5-5z"/>
+	<path id="Layer" class="s9" d="m2224 155l4-4 4 4-3 4z"/>
+	<path id="Layer" class="s4" d="m492 770l10 7-8 5z"/>
+	<path id="Layer" class="s11" d="m1277 498l-7 1-2-6z"/>
+	<path id="Layer" class="s19" d="m598 1195l-4 4-5-4z"/>
+	<path id="Layer" class="s8" d="m698 827l-15 3z"/>
+	<path id="Layer" class="s19" d="m896 486l-11-4 3-4z"/>
+	<path id="Layer" class="s16" d="m1436 1053l-5 3-4-4 5-3z"/>
+	<path id="Layer" class="s7" d="m556 667l4 5-6 4z"/>
+	<path id="Layer" class="s2" d="m1629 27l-4 5-5-5z"/>
+	<path id="Layer" class="s12" d="m896 486l8 6-2 3z"/>
+	<path id="Layer" class="s16" d="m1970 1097l-3-5 4-3 3 4z"/>
+	<path id="Layer" class="s11" d="m1512 314l-5 2 2-9z"/>
+	<path id="Layer" class="s0" d="m697 1362l-5-7 4-3 5 5z"/>
+	<path id="Layer" class="s14" d="m794 322l-5 4-3-6z"/>
+	<path id="Layer" class="s9" d="m372 1216l4 4-3 4-4-3z"/>
+	<path id="Layer" class="s19" d="m1783 1025l-5 2-2-3 4-4z"/>
+	<path id="Layer" class="s9" d="m1543 851l-3-6 4-4 3 3z"/>
+	<path id="Layer" class="s11" d="m322 1337l-5 5-4-5z"/>
+	<path id="Layer" class="s20" d="m672 324l-9-3z"/>
+	<path id="Layer" class="s19" d="m2030 711l3 6-4 3z"/>
+	<path id="Layer" class="s3" d="m1904 1427l-4-4 4-6 4 3z"/>
+	<path id="Layer" class="s19" d="m353 432l3-7z"/>
+	<path id="Layer" class="s7" d="m1799 886l-8 4-4-5z"/>
+	<path id="Layer" class="s3" d="m1060 1264l-8 3 2-5z"/>
+	<path id="Layer" class="s9" d="m2436 1263l3 4-4 4-3-4z"/>
+	<path id="Layer" class="s21" d="m436 18l-1 11-3-2z"/>
+	<path id="Layer" class="s20" d="m350 1296l-2 3-3-1 1-3z"/>
+	<path id="Layer" class="s6" d="m550 1330l4 4-1 3-4-1z"/>
+	<path id="Layer" class="s22" d="m1727 42l-3 2-3-4 4-1z"/>
+	<path id="Layer" class="s0" d="m976 47l-5 2-2-2 3-4z"/>
+	<path id="Layer" class="s21" d="m2433 1348l2-4 3 7z"/>
+	<path id="Layer" class="s14" d="m579 63l-5-3 4-6z"/>
+	<path id="Layer" class="s11" d="m938 62l4 3-2 5z"/>
+	<path id="Layer" class="s15" d="m1290 67l4 3-2 4z"/>
+	<path id="Layer" class="s13" d="m1941 1358l-3-4h7z"/>
+	<path id="Layer" class="s20" d="m253 1380l-1 3-3-2 1-3z"/>
+	<path id="Layer" class="s0" d="m2133 1380l-2 4-4-3 1-3z"/>
+	<path id="Layer" class="s6" d="m2067 105l-2-6 6 5z"/>
+	<path id="Layer" class="s22" d="m794 109l-3 2-3-4 4-1z"/>
+	<path id="Layer" class="s15" d="m2067 105l4-1 1 9z"/>
+	<path id="Layer" class="s7" d="m2092 114l-2 2-2-4 2-2z"/>
+	<path id="Layer" class="s14" d="m678 1384l-3 5-5-2 3-6z"/>
+	<path id="Layer" class="s21" d="m1984 1393l-5 3-3-4z"/>
+	<path id="Layer" class="s0" d="m2512 136l-1-4 3-1 1 3z"/>
+	<path id="Layer" class="s3" d="m386 138l-6 3-3-4z"/>
+	<path id="Layer" class="s8" d="m1646 1399l-12-2 5-3z"/>
+	<path id="Layer" class="s14" d="m2414 1396l3 6-4 3z"/>
+	<path id="Layer" class="s23" d="m2335 1420l-5 2-2-3 4-3z"/>
+	<path id="Layer" class="s16" d="m2227 1419l-1 11-4-1z"/>
+	<path id="Layer" class="s11" d="m264 172l3 6-5 1z"/>
+	<path id="Layer" class="s13" d="m379 174l-5 5-5-3z"/>
+	<path id="Layer" class="s12" d="m1652 698l-3-5h7z"/>
+	<path id="Layer" class="s19" d="m778 216l-2-3 4-2 1 3z"/>
+	<path id="Layer" class="s10" d="m805 222l-4 3 1-6z"/>
+	<path id="Layer" class="s22" d="m1209 222h-7l4-4z"/>
+	<path id="Layer" class="s6" d="m895 241l-5 1-1-3 4-3z"/>
+	<path id="Layer" class="s12" d="m2431 253l-3-5h7z"/>
+	<path id="Layer" class="s9" d="m2138 252l-8 6-4-5z"/>
+	<path id="Layer" class="s1" d="m2196 302l-5 1-2-3 5-2z"/>
+	<path id="Layer" class="s24" d="m1752 307l4 1-2 3-3-1z"/>
+	<path id="Layer" class="s12" d="m542 321l-1 9z"/>
+	<path id="Layer" class="s24" d="m367 353l3 2-1 3-4-2z"/>
+	<path id="Layer" class="s16" d="m1708 372l2-3 5 3-2 3z"/>
+	<path id="Layer" class="s14" d="m1616 375l-2 5-4-4 1-3z"/>
+	<path id="Layer" class="s23" d="m777 388l-7 6 1-8z"/>
+	<path id="Layer" class="s6" d="m2306 389v8l-3-3z"/>
+	<path id="Layer" class="s9" d="m836 410v-8l4 4z"/>
+	<path id="Layer" class="s14" d="m709 410l-4 3 1-6z"/>
+	<path id="Layer" class="s20" d="m1257 415l1-3 4 1-2 4z"/>
+	<path id="Layer" class="s14" d="m2419 419l-4 3-4-5 5-2z"/>
+	<path id="Layer" class="s22" d="m563 426l2-2 3 4-4 1z"/>
+	<path id="Layer" class="s1" d="m540 434l-3-1 1-3 4 1z"/>
+	<path id="Layer" class="s8" d="m828 443l-5 4-1-7z"/>
+	<path id="Layer" class="s7" d="m597 459l5 3h-14z"/>
+	<path id="Layer" class="s14" d="m2290 469l-5 3-4-6z"/>
+	<path id="Layer" class="s12" d="m506 481l3 13z"/>
+	<path id="Layer" class="s7" d="m945 504l-4-5 4-5 4 3z"/>
+	<path id="Layer" class="s23" d="m1689 513l-2 4-4-2 1-4z"/>
+	<path id="Layer" class="s1" d="m1838 536l-2 3-1-5z"/>
+	<path id="Layer" class="s20" d="m838 551l-3-2 1-3 3 1z"/>
+	<path id="Layer" class="s24" d="m2409 554l3 1-1 4-3-2z"/>
+	<path id="Layer" class="s9" d="m327 565l-3 3-3-5 4-5z"/>
+	<path id="Layer" class="s21" d="m1837 560l-2 4-4-2 1-3z"/>
+	<path id="Layer" class="s20" d="m1371 591l-4 1-1-3 3-1z"/>
+	<path id="Layer" class="s9" d="m1540 601l5-3 3 4-4 3z"/>
+	<path id="Layer" class="s12" d="m1250 619l-2-3 4-1 2 3z"/>
+	<path id="Layer" class="s25" d="m227 625l-6 2-2-4zm1674 8l-1-8 4 2z"/>
+	<path id="Layer" class="s3" d="m549 635l-4 5-4-3 3-4z"/>
+	<path id="Layer" class="s20" d="m77 672l-1 3-3-1 1-3z"/>
+	<path id="Layer" class="s3" d="m2440 679h-8l5-5z"/>
+	<path id="Layer" class="s10" d="m246 689l-4-8 6-4z"/>
+	<path id="Layer" class="s24" d="m516 681l3-2 2 4-3 1z"/>
+	<path id="Layer" class="s22" d="m1576 687l-2 2-2-4 3-1z"/>
+	<path id="Layer" class="s12" d="m295 725v7z"/>
+	<path id="Layer" class="s20" d="m919 734l3 2-1 3-3-2z"/>
+	<path id="Layer" class="s24" d="m1179 751l3 1-1 4-4-2z"/>
+	<path id="Layer" class="s12" d="m1712 759l-6 2-3-3 5-3z"/>
+	<path id="Layer" class="s9" d="m2008 545l-3-5 5-4 2 5z"/>
+	<path id="Layer" class="s19" d="m1858 776l-3-1 1-4 4 2z"/>
+	<path id="Layer" class="s23" d="m234 783l-3 3-3-4 3-1z"/>
+	<path id="Layer" class="s21" d="m1271 787l-11-1 2-3z"/>
+	<path id="Layer" class="s0" d="m1753 784l3 4-2 2-4-3z"/>
+	<path id="Layer" class="s24" d="m615 793l-2-3 2-2 2 1z"/>
+	<path id="Layer" class="s9" d="m1239 823l4 5-5 4-2-4z"/>
+	<path id="Layer" class="s7" d="m2361 831l-3 5-2-7z"/>
+	<path id="Layer" class="s15" d="m1679 842l-5-4 4-5z"/>
+	<path id="Layer" class="s1" d="m1492 854l-3 2-2-5h4z"/>
+	<path id="Layer" class="s14" d="m2340 867l-5-4 4-5 4 3z"/>
+	<path id="Layer" class="s13" d="m606 730l-3-5 5-2 2 2z"/>
+	<path id="Layer" class="s24" d="m909 888l2 3-4 2-1-3z"/>
+	<path id="Layer" class="s26" d="m1821 890l-4 5-5-4 3-4z"/>
+	<path id="Layer" class="s14" d="m1838 904l-10 1 5-5z"/>
+	<path id="Layer" class="s9" d="m616 915l-4 5-1-7z"/>
+	<path id="Layer" class="s18" d="m705 917l2 3-4 3z"/>
+	<path id="Layer" class="s6" d="m1806 933l4 2-3 4-3-2z"/>
+	<path id="Layer" class="s20" d="m2117 935l2 3-1 1-3-1z"/>
+	<path id="Layer" class="s5" d="m1707 943l-8 1 2-5z"/>
+	<path id="Layer" class="s18" d="m104 947l-2-3 4-2 1 3z"/>
+	<path id="Layer" class="s20" d="m1554 951l-3 1v-4h2z"/>
+	<path id="Layer" class="s21" d="m1714 961l-3 1-3-4z"/>
+	<path id="Layer" class="s22" d="m2498 976l2 2-3 4-2-4z"/>
+	<path id="Layer" class="s8" d="m639 989l-3-5 4-3zm1047-6l-6 5-4-3 4-4z"/>
+	<path id="Layer" class="s16" d="m895 1002l-3 1-3-3 4-1z"/>
+	<path id="Layer" class="s22" d="m1150 1012l-2-3 4-2 2 3z"/>
+	<path id="Layer" class="s9" d="m955 1010l-1 11-4-3z"/>
+	<path id="Layer" class="s22" d="m1740 720l-3 3-2-4 3-2z"/>
+	<path id="Layer" class="s10" d="m1937 1029l4 5-6 4z"/>
+	<path id="Layer" class="s2" d="m267 1050l-5 3-3-4 4-3z"/>
+	<path id="Layer" class="s3" d="m983 1052h-8l3-4z"/>
+	<path id="Layer" class="s18" d="m1515 1049l3-3 4 3-1 3z"/>
+	<path id="Layer" class="s9" d="m1444 1056l-2 11z"/>
+	<path id="Layer" class="s10" d="m602 1082l4 6-3 4-5-5z"/>
+	<path id="Layer" class="s8" d="m788 1092l-5 2-2-3 3-3z"/>
+	<path id="Layer" class="s7" d="m1123 1112l-5 2 1-7z"/>
+	<path id="Layer" class="s2" d="m2331 1108l-3 5-6-4 4-3z"/>
+	<path id="Layer" class="s15" d="m2514 1143l-8 4-4-6z"/>
+	<path id="Layer" class="s23" d="m2404 1171l-2-3 4-2 1 3z"/>
+	<path id="Layer" class="s19" d="m1283 1212l-2 3-3-1 1-3z"/>
+	<path id="Layer" class="s23" d="m1061 1214l4 3-3 4-3-2z"/>
+	<path id="Layer" class="s13" d="m1750 1213l-1 9-4-5z"/>
+	<path id="Layer" class="s14" d="m2256 1212l3 5-6 4-2-5z"/>
+	<path id="Layer" class="s3" d="m1384 1028h-11l1-3z"/>
+	<path id="Layer" class="s0" d="m666 1258l-4 4-3-1 1-5z"/>
+	<path id="Layer" class="s6" d="m223 510l-3 1-2-3 3-1zm1662 682l-8-2z"/>
+	<path id="Layer" class="s19" d="m673 495l2 2h-4z"/>
+	<path id="Layer" class="s12" d="m1760 1044l2-2 3 4z"/>
+	<path id="Layer" class="s24" d="m692 443l-3-2 4-1z"/>
+	<path id="Layer" class="s5" d="m477 83l-2 3-2-3 3-3z"/>
+	<path id="Layer" class="s9" d="m1324 80l2 3-3 3z"/>
+	<path id="Layer" class="s24" d="m313 93l-1 3-1-4z"/>
+	<path id="Layer" class="s8" d="m2386 120l-3 3-4-4z"/>
+	<path id="Layer" class="s12" d="m623 1195l-2 3-3-5h4z"/>
+	<path id="Layer" class="s6" d="m1020 862l2 2-2 4-3-4z"/>
+	<path id="Layer" class="s3" d="m796 153l-3 4-3-4 2-2z"/>
+	<path id="Layer" class="s25" d="m1228 1130l2 3-4 2-1-3z"/>
+	<path id="Layer" class="s10" d="m964 481l-2-6 4-2z"/>
+	<path id="Layer" class="s8" d="m448 173l-3 2-2-3 3-2z"/>
+	<path id="Layer" class="s3" d="m2023 1237l-5 3-3-2 3-4z"/>
+	<path id="Layer" class="s14" d="m2147 523l-4-2 4-3 3 2z"/>
+	<path id="Layer" class="s16" d="m841 901l-3 2-1-4 3-1z"/>
+	<path id="Layer" class="s11" d="m217 690l-2 7z"/>
+	<path id="Layer" class="s13" d="m522 477l-6-9z"/>
+	<path id="Layer" class="s9" d="m1606 459l-5 3-2-2 2-4z"/>
+	<path id="Layer" class="s8" d="m473 786l-2 2-3-4 4-1z"/>
+	<path id="Layer" class="s16" d="m764 988l-2-2 4-2 1 3z"/>
+	<path id="Layer" class="s3" d="m1491 616l-2 3-4-3 2-3z"/>
+	<path id="Layer" class="s9" d="m360 1170l-5 1-1-2 4-3z"/>
+	<path id="Layer" class="s10" d="m128 1005l-5 3 1-7z"/>
+	<path id="Layer" class="s25" d="m1512 451l-3 1-2-4z"/>
+	<path id="Layer" class="s16" d="m322 1010l-1 4-3-2 1-3zm300 82l-3-2h6z"/>
+	<path id="Layer" class="s9" d="m1577 795l-2 2-2-3 3-3z"/>
+	<path id="Layer" class="s6" d="m64 798l-4 4 2-7z"/>
+	<path id="Layer" class="s7" d="m161 1030l-2-3 4-1 1 2z"/>
+	<path id="Layer" class="s25" d="m1193 1031l-4 2-2-2 4-3z"/>
+	<path id="Layer" class="s14" d="m1094 858l2 3-3 4-4-2z"/>
+	<path id="Layer" class="s11" d="m1920 406l-2 2-2-3 3-3z"/>
+	<path id="Layer" class="s5" d="m2277 1211l-1-3 4-2z"/>
+	<path id="Layer" class="s8" d="m702 910l-2 2-4-3z"/>
+	<path id="Layer" class="s19" d="m94 404l3 2-1 3-3-1z"/>
+	<path id="Layer" class="s3" d="m969 400l2 3-4 2z"/>
+	<path id="Layer" class="s11" d="m528 1235l-1 3-3-6z"/>
+	<path id="Layer" class="s3" d="m987 923l-2 2-3-4 3-1z"/>
+	<path id="Layer" class="s5" d="m1017 553l-2 3-2-4 2-1z"/>
+	<path id="Layer" class="s3" d="m1829 924l-3 3-3-3 4-3z"/>
+	<path id="Layer" class="s6" d="m1443 934l-2 2-2-4 3-1z"/>
+	<path id="Layer" class="s9" d="m354 815l-5 1-1-3 4-1z"/>
+	<path id="Layer" class="s11" d="m76 1341l-2 4-4-2 1-3z"/>
+	<path id="Layer" class="s13" d="m1751 356l3 3-2 4z"/>
+	<path id="Layer" class="s9" d="m1273 659l4 2-2 4-3-1z"/>
+	<path id="Layer" class="s3" d="m557 310l-4 1-1-3 4-2z"/>
+	<path id="Layer" class="s14" d="m1430 301l4 2-7 2z"/>
+	<path id="Layer" class="s9" d="m2265 832l-2-3 4-2 1 4z"/>
+	<path id="Layer" class="s12" d="m776 954l-6 2-2-3 3-3z"/>
+	<path id="Layer" class="s7" d="m2207 1396l-5 4-1-4 4-3z"/>
+	<path id="Layer" class="s13" d="m935 1402l-4 3-2-3 3-4z"/>
+	<path id="Layer" class="s11" d="m578 958l-3 2-2-3 4-2z"/>
+	<path id="Layer" class="s5" d="m756 262l-3 2-3-4z"/>
+	<path id="Layer" class="s19" d="m2415 716l-1 3-3-2 1-3z"/>
+	<path id="Layer" class="s9" d="m1347 217l3-2 2 2-4 4z"/>
+	<path id="Layer" class="s13" d="m2468 708l-3-4 7 2z"/>
+	<path id="Layer" class="s16" d="m268 208l-2 3-1-6z"/>
+	<path id="Layer" class="s19" d="m486 1202h1v2l-3-1z"/>
+	<path id="Layer" class="s12" d="m2551 1203l1 4-2 2z"/>
+	<path id="Layer" class="s0" d="m489 8l-3 1 2-4z"/>
+	<path id="Layer" class="s18" d="m1171 23l-1 4-1-5z"/>
+	<path id="Layer" class="s19" d="m225 1212l1-2 1 1v1z"/>
+	<path id="Layer" class="s21" d="m2057 28l3-2 2 2-1 1z"/>
+	<path id="Layer" class="s7" d="m1065 49l-1-6 2 1z"/>
+	<path id="Layer" class="s25" d="m505 135l-2 3-3-2z"/>
+	<path id="Layer" class="s24" d="m471 402l2-9 4 6z"/>
+	<path id="Layer" class="s1" d="m2405 801l-3 1-1-1 3-1z"/>
+	<path id="Layer" class="s25" d="m2215 550l-3 2-2-2z"/>
+	<path id="Layer" class="s12" d="m1344 807l-3-1 3-3 3 2z"/>
+	<path id="Layer" class="s18" d="m88 1226l-2 3v-6z"/>
+	<path id="Layer" class="s23" d="m1664 392l1 3-2 2-1-3z"/>
+	<path id="Layer" class="s16" d="m61 165l-2-3 2-2z"/>
+	<path id="Layer" class="s24" d="m811 164l-1 1h-1l1-3z"/>
+	<path id="Layer" class="s9" d="m1940 966l3 2-3 3-3-2z"/>
+	<path id="Layer" class="s21" d="m474 980l2 2h-5z"/>
+	<path id="Layer" class="s3" d="m962 837l-1 4-3-2 1-4zm703 440l-1 3-3-3 2-3z"/>
+	<path id="Layer" class="s16" d="m2333 1284l-2-2 1-3z"/>
+	<path id="Layer" class="s25" d="m1318 547l-3 3v-6z"/>
+	<path id="Layer" class="s1" d="m1476 372l-2-2 1-2 2 2z"/>
+	<path id="Layer" class="s21" d="m1164 662l2 2h-4z"/>
+	<path id="Layer" class="s23" d="m2376 510l-2 3-1-1 1-3z"/>
+	<path id="Layer" class="s6" d="m874 662l-2 2 1-5z"/>
+	<path id="Layer" class="s12" d="m26 740l-3-1 3-3 3 2z"/>
+	<path id="Layer" class="s20" d="m1269 1361v-2h1z"/>
+	<path id="Layer" class="s23" d="m1652 1011l-2 3 1-5z"/>
+	<path id="Layer" class="s0" d="m1806 851l-3 1v-2z"/>
+	<path id="Layer" class="s3" d="m661 782l-7 4z"/>
+	<path id="Layer" class="s18" d="m2397 540l-2 3v-6z"/>
+	<path id="Layer" class="s24" d="m684 198l-1-1 2-2z"/>
+	<path id="Layer" class="s21" d="m341 302l2 2v2l-3-1z"/>
+	<path id="Layer" class="s22" d="m2085 719l-2-1 2-2 1 2z"/>
+	<path id="Layer" class="s0" d="m1018 272l2 3h-5z"/>
+	<path id="Layer" class="s6" d="m1834 418l2 3h-3z"/>
+	<path id="Layer" class="s20" d="m2495 863v-2h1z"/>
+	<path id="Layer" class="s23" d="m1082 1048l3-2 2 3-3 1z"/>
+	<path id="Layer" class="s3" d="m1649 631l-2 3-3-3 3-3z"/>
+	<path id="Layer" class="s23" d="m871 1084l1 2h-5z"/>
+	<path id="Layer" class="s7" d="m2178 831l-4 2-1-4z"/>
+	<path id="Layer" class="s6" d="m1597 531l-3-2h7z"/>
+	<path id="Layer" class="s24" d="m547 961v1h-2z"/>
+	<path id="Layer" class="s7" d="m322 1127l2-4 1 7z"/>
+	<path id="Layer" class="s3" d="m1739 259l-3-1 1-4 3 2z"/>
+	<path id="Layer" class="s21" d="m746 1144l-2 2-2-2z"/>
+	<path id="Layer" class="s11" d="m1228 804l-4-2 3-3 3 2z"/>
+	<path id="Layer" class="s22" d="m827 960l1-1 1 2z"/>
+	<path id="Layer" class="s1" d="m1868 1177l1 1h-4z"/>
+	<path id="Layer" class="s0" d="m2248 952l-2 2-2-2z"/>
+	<path id="Layer" class="s23" d="m764 816l1 2-2 1-1-1z"/>
+	<path id="Layer" class="s22" d="m526 128l-1 1-1-1 1-1zm1347 1117l-1 1v-2z"/>
+	<path id="Layer" class="s4" d="m502 343l-8 6-10-8z"/>
+	<path id="Layer" class="s8" d="m499 210l12 14-10 14-11-10zm-289 70l-2-15 7 6z"/>
+	<path id="Layer" class="s2" d="m834 780l7 11-6 8-7-7z"/>
+	<path id="Layer" fill-rule="evenodd" class="s4" d="m420 358l21 19-17 16-17-23zm6 13l-3 8 5 4z"/>
+	<path id="Layer" class="s13" d="m2332 543l-8 4-5-6 5-5z"/>
+	<path id="Layer" class="s10" d="m426 371l2 12-5-4z"/>
+	<path id="Layer" class="s0" d="m0 1075l4 364z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m2561 4l-310-4zm-2243-4h-310zm318 0h-285zm1381 0h-226zm-281 0h-217z"/>
+	<path id="Layer" class="s0" d="m0 8v205z"/>
+	<path id="Layer" class="s1" d="m2209 0h-150z"/>
+	<path id="Layer" class="s2" d="m2561 958l-12-11z"/>
+	<path id="Layer" class="s3" d="m2029 1439l6-8 7 8z"/>
+	<path id="Layer" class="s4" d="m2561 954l-12-7 12-6z"/>
+	<path id="Layer" class="s5" d="m1778 0l-7 7-1-7z"/>
+	<path id="Layer" class="s6" d="m1004 1439h9z"/>
+	<path id="Layer" class="s4" d="m660 1296l-9-15 10-9 10 10z"/>
+	<path id="Layer" class="s1" d="m1905 786l15-8 8 9-11 10z"/>
+	<path id="Layer" class="s7" d="m1180 221l19-6 2 4-14 11z"/>
+	<path id="Layer" class="s5" d="m2476 526l8 9-6 9-9-8zm-607 374l8 7-4 8z"/>
+	<path id="Layer" class="s8" d="m575 410l-7-9 5-6 7 5zm918 738l11-13-6 19zm240-1113l9-6 5 6-6 6zm564 1233l-10 15-5-4 11-18z"/>
+	<path id="Layer" class="s4" d="m664 985l8 14-7 5z"/>
+	<path id="Layer" class="s8" d="m1783 668l7 9-6 6-6-6z"/>
+	<path id="Layer" class="s5" d="m2054 958l-9 13-7-9 12-7z"/>
+	<path id="Layer" class="s9" d="m1654 477l-2 15z"/>
+	<path id="Layer" class="s2" d="m958 149l8-4 4 7z"/>
+	<path id="Layer" class="s9" d="m2095 32l6 8-5 7-7-5z"/>
+	<path id="Layer" class="s10" d="m1669 730l-4 19-6-7z"/>
+	<path id="Layer" class="s11" d="m1733 515l-1-21z"/>
+	<path id="Layer" class="s12" d="m517 1220l6-7 7 5-6 9z"/>
+	<path id="Layer" class="s9" d="m1639 675l9-5 5 7-6 5zm45-156l-5-9 6-5 5 5z"/>
+	<path id="Layer" class="s5" d="m860 389l-4-8 6-4 4 6z"/>
+	<path id="Layer" class="s13" d="m571 1142l9-8-5 16z"/>
+	<path id="Layer" class="s3" d="m127 449l8-4 3 6-5 5z"/>
+	<path id="Layer" class="s14" d="m2105 1103l-2-11 9 11z"/>
+	<path id="Layer" class="s9" d="m129 521l-7 6-5-4 5-8z"/>
+	<path id="Layer" class="s15" d="m950 17l6 7-5 5z"/>
+	<path id="Layer" class="s11" d="m1997 825h15l-7 7z"/>
+	<path id="Layer" class="s15" d="m1893 978l4 4-4 5-4-5z"/>
+	<path id="Layer" class="s2" d="m2502 1119l1 15z"/>
+	<path id="Layer" class="s4" d="m1844 1363h13l-5 5z"/>
+	<path id="Layer" class="s13" d="m1745 1309l12 1-5 5z"/>
+	<path id="Layer" class="s16" d="m1900 657l-8-10 14 7z"/>
+	<path id="Layer" class="s17" d="m2367 1328l7-4 3 4-4 4z"/>
+	<path id="Layer" class="s8" d="m2010 1408l8-6 6 5z"/>
+	<path id="Layer" class="s9" d="m2302 476l-2-14 6 6z"/>
+	<path id="Layer" class="s3" d="m1767 64l4-4 6 4z"/>
+	<path id="Layer" class="s13" d="m2047 1041l-1-15z"/>
+	<path id="Layer" class="s11" d="m1880 88l-5-9 5-3z"/>
+	<path id="Layer" class="s3" d="m740 385l8-1 3 5-6 3z"/>
+	<path id="Layer" class="s12" d="m1230 229l-4-5 7-7z"/>
+	<path id="Layer" class="s8" d="m1508 1040l-5-11 4-3zm-343-810l5-4 5 6z"/>
+	<path id="Layer" class="s9" d="m1165 287l5-3 4 5-5 3z"/>
+	<path id="Layer" class="s5" d="m292 974h11l-4 3z"/>
+	<path id="Layer" class="s11" d="m1754 550l-14-3z"/>
+	<path id="Layer" class="s14" d="m1110 1214l8-4 3 3-4 6z"/>
+	<path id="Layer" class="s5" d="m656 480l4-4 5 4z"/>
+	<path id="Layer" class="s18" d="m544 928h19z"/>
+	<path id="Layer" class="s8" d="m2020 547l2 13-5-4z"/>
+	<path id="Layer" class="s5" d="m1895 695l-4-4 2-5z"/>
+	<path id="Layer" class="s2" d="m207 59l7-4 4 3-5 6z"/>
+	<path id="Layer" class="s9" d="m337 1284l-4 5-5-5 4-4z"/>
+	<path id="Layer" class="s4" d="m2069 669l-10-7 7-5z"/>
+	<path id="Layer" class="s11" d="m1284 942l6-2 2 7z"/>
+	<path id="Layer" class="s19" d="m1962 244l5-4 5 5z"/>
+	<path id="Layer" class="s8" d="m1863 612l15-2z"/>
+	<path id="Layer" class="s19" d="m1664 954l11 3-2 4-8-8z"/>
+	<path id="Layer" class="s16" d="m1124 386l6-3 3 4-4 3z"/>
+	<path id="Layer" class="s7" d="m2005 772l-4-5 6-3z"/>
+	<path id="Layer" class="s2" d="m932 1412l3-5 6 5z"/>
+	<path id="Layer" class="s12" d="m1665 953l-8-5 2-3 5 9z"/>
+	<path id="Layer" class="s16" d="m591 342l3 5-4 4-3-5z"/>
+	<path id="Layer" class="s11" d="m1048 1125l6-2-2 9z"/>
+	<path id="Layer" class="s0" d="m1863 78l5 7-3 3-5-5z"/>
+	<path id="Layer" class="s14" d="m1766 1117l5-4 4 6z"/>
+	<path id="Layer" class="s9" d="m2189 223l-5-4 3-3 5 3z"/>
+	<path id="Layer" class="s19" d="m778 415l5-2 2 3-5 3z"/>
+	<path id="Layer" class="s9" d="m1018 588l3 6-4 5-4-4z"/>
+	<path id="Layer" class="s11" d="m2239 102l4-4 5 4z"/>
+	<path id="Layer" class="s20" d="m1888 1115l9 4z"/>
+	<path id="Layer" class="s19" d="m531 728l-3-6 4-2z"/>
+	<path id="Layer" class="s3" d="m656 12l5 4-4 7-4-3z"/>
+	<path id="Layer" class="s19" d="m2208 1007l-3 8z"/>
+	<path id="Layer" class="s7" d="m762 554l8-5 4 5z"/>
+	<path id="Layer" class="s3" d="m1500 175l9-3-2 5z"/>
+	<path id="Layer" class="s9" d="m125 177l-4-5 4-4 3 4z"/>
+	<path id="Layer" class="s21" d="m2125 1422l1-11 3 1z"/>
+	<path id="Layer" class="s20" d="m2211 143l2-3 2 2-1 3z"/>
+	<path id="Layer" class="s6" d="m2010 110l-4-5 2-3 4 2z"/>
+	<path id="Layer" class="s22" d="m834 1398l3-3 2 4-3 1z"/>
+	<path id="Layer" class="s0" d="m1585 1392l5-2 2 3-3 3z"/>
+	<path id="Layer" class="s21" d="m128 91l-2 4-3-6z"/>
+	<path id="Layer" class="s14" d="m1982 1376l5 4-4 5z"/>
+	<path id="Layer" class="s11" d="m1622 1377l-3-2 1-5z"/>
+	<path id="Layer" class="s15" d="m1270 1372l-3-2 2-5z"/>
+	<path id="Layer" class="s13" d="m620 82l3 3h-7z"/>
+	<path id="Layer" class="s20" d="m2307 60l2-3 3 1-2 3z"/>
+	<path id="Layer" class="s0" d="m427 60l3-4 4 3-2 3z"/>
+	<path id="Layer" class="s6" d="m494 1335l1 5-5-4z"/>
+	<path id="Layer" class="s22" d="m1767 1331l3-2 2 4-3 1z"/>
+	<path id="Layer" class="s15" d="m494 1335l-4 1-2-9z"/>
+	<path id="Layer" class="s7" d="m469 1326l2-3 2 4-3 2z"/>
+	<path id="Layer" class="s14" d="m1882 55l4-5 5 2-3 6z"/>
+	<path id="Layer" class="s21" d="m577 46l5-3 3 4z"/>
+	<path id="Layer" class="s0" d="m49 1304l1 3-4 2-1-4z"/>
+	<path id="Layer" class="s3" d="m2175 1302l6-3 3 4z"/>
+	<path id="Layer" class="s8" d="m915 40l12 2-5 4z"/>
+	<path id="Layer" class="s14" d="m147 43l-3-5 4-4z"/>
+	<path id="Layer" class="s23" d="m226 20l5-2 1 3-4 3z"/>
+	<path id="Layer" class="s16" d="m334 21l1-12 3 1z"/>
+	<path id="Layer" class="s11" d="m2297 1268l-4-7h6z"/>
+	<path id="Layer" class="s13" d="m2181 1265l5-5 6 4z"/>
+	<path id="Layer" class="s12" d="m909 741l3 5-7 1z"/>
+	<path id="Layer" class="s19" d="m1783 1224l2 2-4 2-1-3z"/>
+	<path id="Layer" class="s10" d="m1756 1217l4-3-2 7z"/>
+	<path id="Layer" class="s22" d="m1352 1218l6-1-3 4z"/>
+	<path id="Layer" class="s6" d="m1665 1199l5-2 2 3-5 3z"/>
+	<path id="Layer" class="s12" d="m129 1187l4 4-7 1z"/>
+	<path id="Layer" class="s9" d="m423 1187l7-6 5 5z"/>
+	<path id="Layer" class="s1" d="m365 1138l5-1 1 3-5 1z"/>
+	<path id="Layer" class="s24" d="m808 1132l-3-1 1-3 3 1z"/>
+	<path id="Layer" class="s12" d="m2018 1119l1-10z"/>
+	<path id="Layer" class="s24" d="m2194 1086l-4-1 2-3 3 1z"/>
+	<path id="Layer" class="s16" d="m853 1067l-3 3-4-2 2-4z"/>
+	<path id="Layer" class="s14" d="m945 1064l2-4 4 3-2 3z"/>
+	<path id="Layer" class="s23" d="m1784 1051l7-6-1 9z"/>
+	<path id="Layer" class="s6" d="m255 1050l-1-8 4 3z"/>
+	<path id="Layer" class="s9" d="m1725 1029l-1 9-4-5z"/>
+	<path id="Layer" class="s14" d="m1852 1029l4-3-2 7z"/>
+	<path id="Layer" class="s20" d="m1304 1024l-2 3-3-1 1-3z"/>
+	<path id="Layer" class="s14" d="m141 1020l5-3 4 5-5 3z"/>
+	<path id="Layer" class="s22" d="m1998 1013l-3 2-2-4 3-1z"/>
+	<path id="Layer" class="s1" d="m2021 1005l3 1-2 3-3-1z"/>
+	<path id="Layer" class="s8" d="m1733 997l5-5v7z"/>
+	<path id="Layer" class="s7" d="m1964 980l-5-3 13 1z"/>
+	<path id="Layer" class="s14" d="m271 970l5-3 4 6z"/>
+	<path id="Layer" class="s12" d="m2054 958l-2-12z"/>
+	<path id="Layer" class="s7" d="m1616 935l4 5-5 5-3-3z"/>
+	<path id="Layer" class="s23" d="m871 927l2-4 5 2-1 3z"/>
+	<path id="Layer" class="s1" d="m723 904l2-3 1 4z"/>
+	<path id="Layer" class="s20" d="m1723 889l3 1-1 3-3-1z"/>
+	<path id="Layer" class="s24" d="m152 886l-4-2 2-3 3 1z"/>
+	<path id="Layer" class="s9" d="m2233 874l4-3 3 5-5 5z"/>
+	<path id="Layer" class="s21" d="m724 879l1-4 5 2-2 3z"/>
+	<path id="Layer" class="s20" d="m1190 849l3-2 1 3-3 2z"/>
+	<path id="Layer" class="s9" d="m1021 839l-5 2-3-4 3-2z"/>
+	<path id="Layer" class="s12" d="m1311 820l2 3-5 2-1-4z"/>
+	<path id="Layer" class="s25" d="m2334 814l6-2 2 4zm-1674-8l1 9-4-3z"/>
+	<path id="Layer" class="s3" d="m2011 804l5-4 4 3-4 4z"/>
+	<path id="Layer" class="s20" d="m2483 767l2-3 3 1-2 3z"/>
+	<path id="Layer" class="s3" d="m120 760h9l-5 5z"/>
+	<path id="Layer" class="s10" d="m2315 750l4 8-6 4z"/>
+	<path id="Layer" class="s24" d="m2045 758l-3 2-3-4 4-1z"/>
+	<path id="Layer" class="s22" d="m984 753l3-2 2 4-3 1z"/>
+	<path id="Layer" class="s12" d="m2266 714v-7z"/>
+	<path id="Layer" class="s20" d="m1641 705l-3-1 1-3 3 1z"/>
+	<path id="Layer" class="s24" d="m1382 689l-3-2 1-3 3 1z"/>
+	<path id="Layer" class="s12" d="m849 680l5-2 3 4-4 3z"/>
+	<path id="Layer" class="s9" d="m553 894l3 5-5 4-2-5z"/>
+	<path id="Layer" class="s19" d="m702 663l3 2-1 3-3-2z"/>
+	<path id="Layer" class="s23" d="m2327 656l3-3 3 4-4 2z"/>
+	<path id="Layer" class="s21" d="m1289 653h11l-1 3z"/>
+	<path id="Layer" class="s0" d="m808 655l-3-4 2-2 4 3z"/>
+	<path id="Layer" class="s24" d="m1945 647l3 2-3 2-1-1z"/>
+	<path id="Layer" class="s9" d="m1321 616l-3-4 4-5 3 4z"/>
+	<path id="Layer" class="s7" d="m200 608l3-4 2 7z"/>
+	<path id="Layer" class="s15" d="m881 598l6 3-5 6z"/>
+	<path id="Layer" class="s1" d="m1068 585l3-2 2 5-3 1z"/>
+	<path id="Layer" class="s14" d="m221 573l5 3-4 5-4-3z"/>
+	<path id="Layer" class="s13" d="m1954 710l3 4-4 3-2-3z"/>
+	<path id="Layer" class="s24" d="m1652 551l-2-2 4-3 1 3z"/>
+	<path id="Layer" class="s26" d="m739 550l4-6 6 4-3 5z"/>
+	<path id="Layer" class="s14" d="m723 535l9-1-4 5z"/>
+	<path id="Layer" class="s9" d="m1944 524l4-4 2 7z"/>
+	<path id="Layer" class="s18" d="m1856 522l-2-2 3-4z"/>
+	<path id="Layer" class="s6" d="m755 507l-5-2 4-5 3 2z"/>
+	<path id="Layer" class="s20" d="m444 504l-2-2 1-2 3 1z"/>
+	<path id="Layer" class="s5" d="m853 496h9l-3 4z"/>
+	<path id="Layer" class="s18" d="m2457 492l2 3-4 2-2-3z"/>
+	<path id="Layer" class="s20" d="m1006 488h4l-1 3h-1z"/>
+	<path id="Layer" class="s21" d="m847 479l3-2 2 4z"/>
+	<path id="Layer" class="s22" d="m62 464l-2-3 4-3 1 3z"/>
+	<path id="Layer" class="s8" d="m1922 450l2 6-3 2zm-1048 6l7-5 3 4-3 4z"/>
+	<path id="Layer" class="s16" d="m1666 438l3-2 3 4-4 1z"/>
+	<path id="Layer" class="s22" d="m1410 428l3 2-5 2-1-3z"/>
+	<path id="Layer" class="s9" d="m1606 430v-12l4 3z"/>
+	<path id="Layer" class="s22" d="m821 719l2-2 3 4-3 1z"/>
+	<path id="Layer" class="s10" d="m623 411l-3-5 6-4z"/>
+	<path id="Layer" class="s2" d="m2293 390l6-4 3 4-4 3z"/>
+	<path id="Layer" class="s3" d="m1578 387h8l-3 5z"/>
+	<path id="Layer" class="s18" d="m1045 390l-2 3-5-2 2-4z"/>
+	<path id="Layer" class="s9" d="m1117 383l2-10z"/>
+	<path id="Layer" class="s10" d="m1958 357l-4-6 3-3 5 4z"/>
+	<path id="Layer" class="s8" d="m1772 348l6-3 2 3-3 3z"/>
+	<path id="Layer" class="s7" d="m1438 328l5-2-2 6z"/>
+	<path id="Layer" class="s2" d="m229 331l4-4 5 3-3 4z"/>
+	<path id="Layer" class="s15" d="m47 296l8-3 3 5z"/>
+	<path id="Layer" class="s23" d="m157 268l2 3-4 2-1-3z"/>
+	<path id="Layer" class="s19" d="m1278 227l1-3 4 1-2 4z"/>
+	<path id="Layer" class="s23" d="m1500 225l-4-2 3-4 2 1z"/>
+	<path id="Layer" class="s13" d="m811 227v-9l5 5z"/>
+	<path id="Layer" class="s14" d="m305 227l-3-5 5-4 2 5z"/>
+	<path id="Layer" class="s3" d="m1177 411h11l-2 3z"/>
+	<path id="Layer" class="s0" d="m1895 181l4-4 3 2-1 4z"/>
+	<path id="Layer" class="s6" d="m2337 930l4-1 2 3-4 1zm-1661-682l7 1z"/>
+	<path id="Layer" class="s19" d="m1888 945l-2-3h4z"/>
+	<path id="Layer" class="s12" d="m801 396l-3 1-3-3z"/>
+	<path id="Layer" class="s24" d="m1869 997l3 2-5 1z"/>
+	<path id="Layer" class="s5" d="m2083 1356l3-3 2 3-3 3z"/>
+	<path id="Layer" class="s9" d="m1236 1359l-1-3 3-3z"/>
+	<path id="Layer" class="s24" d="m2247 1346l2-3 1 4z"/>
+	<path id="Layer" class="s8" d="m175 1319l3-3 4 4z"/>
+	<path id="Layer" class="s12" d="m1937 244l3-2 3 4-4 1z"/>
+	<path id="Layer" class="s6" d="m1541 577l-3-2 3-3 3 3z"/>
+	<path id="Layer" class="s3" d="m1765 1286l2-3 4 3-2 3z"/>
+	<path id="Layer" class="s25" d="m1333 309l-2-2 3-3 2 4z"/>
+	<path id="Layer" class="s10" d="m1597 958l2 6-4 2z"/>
+	<path id="Layer" class="s8" d="m2113 1266l2-2 3 4-3 1z"/>
+	<path id="Layer" class="s3" d="m538 202l5-3 2 2-2 4z"/>
+	<path id="Layer" class="s14" d="m414 916l3 2-4 3-2-2z"/>
+	<path id="Layer" class="s16" d="m1719 538l4-1v3l-2 1z"/>
+	<path id="Layer" class="s11" d="m2344 749l2-7z"/>
+	<path id="Layer" class="s13" d="m2038 962l7 9z"/>
+	<path id="Layer" class="s9" d="m954 980l6-3 2 2-3 4z"/>
+	<path id="Layer" class="s8" d="m2087 654l3-3 2 4-3 1z"/>
+	<path id="Layer" class="s16" d="m1797 451l2 3-4 2-1-3z"/>
+	<path id="Layer" class="s3" d="m1070 824l2-4 3 3-1 3z"/>
+	<path id="Layer" class="s9" d="m2200 269l5-1 2 3-5 3z"/>
+	<path id="Layer" class="s10" d="m2432 434l6-2-1 6z"/>
+	<path id="Layer" class="s25" d="m1049 989l3-2 2 4z"/>
+	<path id="Layer" class="s16" d="m2238 429l2-4 3 2-1 3zm-299-82l3 2h-7z"/>
+	<path id="Layer" class="s9" d="m983 645l3-3 2 3-3 3z"/>
+	<path id="Layer" class="s6" d="m2496 641l5-3-3 6z"/>
+	<path id="Layer" class="s7" d="m2400 409l1 3-4 2-1-3z"/>
+	<path id="Layer" class="s25" d="m1367 408l5-2 2 2-4 4z"/>
+	<path id="Layer" class="s14" d="m1467 582l-2-4 3-4 4 2z"/>
+	<path id="Layer" class="s11" d="m640 1033l3-2 2 3-4 3z"/>
+	<path id="Layer" class="s5" d="m283 228l1 3-3 2z"/>
+	<path id="Layer" class="s8" d="m1858 529l3-2 3 4z"/>
+	<path id="Layer" class="s19" d="m2467 1035l-3-2 1-3 3 2z"/>
+	<path id="Layer" class="s3" d="m1592 1039l-2-3 4-2z"/>
+	<path id="Layer" class="s11" d="m2032 205l2-4 2 7z"/>
+	<path id="Layer" class="s3" d="m1573 517l3-2 3 3-4 2z"/>
+	<path id="Layer" class="s5" d="m1543 886l2-3 3 4-3 2z"/>
+	<path id="Layer" class="s3" d="m732 515l2-2 3 2-3 4z"/>
+	<path id="Layer" class="s6" d="m1117 505l3-2 2 4-3 2z"/>
+	<path id="Layer" class="s9" d="m2207 624l5-1 1 3-4 1z"/>
+	<path id="Layer" class="s11" d="m2485 98l2-4 3 3-1 3z"/>
+	<path id="Layer" class="s13" d="m810 1083l-3-3 2-4z"/>
+	<path id="Layer" class="s9" d="m1287 781l-3-3 2-4 3 1z"/>
+	<path id="Layer" class="s3" d="m2004 1130l3-2 1 4-3 1z"/>
+	<path id="Layer" class="s14" d="m1131 1138l-4-1 6-2z"/>
+	<path id="Layer" class="s9" d="m296 607l1 3-4 2-1-4z"/>
+	<path id="Layer" class="s12" d="m1785 485l5-2 2 3-3 3z"/>
+	<path id="Layer" class="s7" d="m354 43l4-3 2 3-4 3z"/>
+	<path id="Layer" class="s13" d="m1626 37l4-3 2 3-3 4z"/>
+	<path id="Layer" class="s11" d="m1983 481l3-2 2 3-4 3z"/>
+	<path id="Layer" class="s5" d="m1805 1177l3-2 3 4z"/>
+	<path id="Layer" class="s19" d="m145 724l2-3 3 1-1 3z"/>
+	<path id="Layer" class="s9" d="m1213 1222l-2 3-2-3 3-3z"/>
+	<path id="Layer" class="s13" d="m92 731l3 4-6-2z"/>
+	<path id="Layer" class="s16" d="m2293 1232l2-4v6z"/>
+	<path id="Layer" class="s19" d="m2075 238l-2-1 1-1 2 1z"/>
+	<path id="Layer" class="s12" d="m10 237l-2-4 3-2z"/>
+	<path id="Layer" class="s0" d="m2072 1431l2-1-1 4z"/>
+	<path id="Layer" class="s18" d="m1389 1416l2-3 1 5z"/>
+	<path id="Layer" class="s19" d="m2335 228v1h-2l1-2z"/>
+	<path id="Layer" class="s21" d="m504 1412l-3 1-2-1 1-2z"/>
+	<path id="Layer" class="s7" d="m1496 1390l1 7-3-2z"/>
+	<path id="Layer" class="s25" d="m2055 1304l2-2 4 1z"/>
+	<path id="Layer" class="s24" d="m2089 1037l-1 9-5-6z"/>
+	<path id="Layer" class="s1" d="m156 638l3-1 1 1-3 2z"/>
+	<path id="Layer" class="s25" d="m346 889l3-2 2 3z"/>
+	<path id="Layer" class="s12" d="m1217 632l3 2-3 2-3-2z"/>
+	<path id="Layer" class="s18" d="m2473 214l2-3-1 6z"/>
+	<path id="Layer" class="s23" d="m897 1047l-2-3 3-1 1 3z"/>
+	<path id="Layer" class="s16" d="m2500 1275l2 2-2 2z"/>
+	<path id="Layer" class="s24" d="m1750 1276l1-2 1 1-1 2z"/>
+	<path id="Layer" class="s9" d="m621 473l-4-2 4-3 3 3z"/>
+	<path id="Layer" class="s21" d="m2087 460l-2-3 5 1z"/>
+	<path id="Layer" class="s3" d="m1598 602l2-3 3 1-2 4zm-703-440l2-2 2 3-2 3z"/>
+	<path id="Layer" class="s16" d="m227 156l3 2-2 3z"/>
+	<path id="Layer" class="s25" d="m1243 892l2-3v6z"/>
+	<path id="Layer" class="s1" d="m1084 1068l3 2-1 1-3-2z"/>
+	<path id="Layer" class="s21" d="m1396 778l-2-2h5z"/>
+	<path id="Layer" class="s23" d="m185 929l1-3 2 1-2 3z"/>
+	<path id="Layer" class="s6" d="m1686 777l3-1-1 5z"/>
+	<path id="Layer" class="s12" d="m2535 699l3 2-3 2-3-2z"/>
+	<path id="Layer" class="s20" d="m1291 78l1 2h-2z"/>
+	<path id="Layer" class="s23" d="m909 429l1-3v4z"/>
+	<path id="Layer" class="s0" d="m754 588l4-1-1 2z"/>
+	<path id="Layer" class="s3" d="m1900 657l6-3z"/>
+	<path id="Layer" class="s18" d="m164 899l2-3-1 6z"/>
+	<path id="Layer" class="s24" d="m1877 1241l1 2-2 1z"/>
+	<path id="Layer" class="s21" d="m2220 1137l-3-2 1-1h3z"/>
+	<path id="Layer" class="s22" d="m476 721h2l-2 2-2-1z"/>
+	<path id="Layer" class="s0" d="m1543 1167l-2-2h4z"/>
+	<path id="Layer" class="s6" d="m727 1022l-3-4h3z"/>
+	<path id="Layer" class="s20" d="m65 577l1 1-2 1z"/>
+	<path id="Layer" class="s23" d="m1478 391l-3 2-1-3 2-1z"/>
+	<path id="Layer" class="s3" d="m912 808l2-3 2 3-3 3z"/>
+	<path id="Layer" class="s23" d="m1690 355l-1-1h4z"/>
+	<path id="Layer" class="s7" d="m383 608l3-2 2 4z"/>
+	<path id="Layer" class="s6" d="m963 908l3 2h-6z"/>
+	<path id="Layer" class="s24" d="m2014 479l-1-2h3z"/>
+	<path id="Layer" class="s7" d="m2238 313l-2 3v-6z"/>
+	<path id="Layer" class="s3" d="m822 1180l3 2-1 3-3-1z"/>
+	<path id="Layer" class="s21" d="m1814 295l3-1 2 2z"/>
+	<path id="Layer" class="s11" d="m1333 636l4 2-4 2-2-2z"/>
+	<path id="Layer" class="s22" d="m1734 480h-2v-2z"/>
+	<path id="Layer" class="s1" d="m693 263l-1-2h4z"/>
+	<path id="Layer" class="s0" d="m312 488l3-2 2 2z"/>
+	<path id="Layer" class="s23" d="m1797 623l-1-1 1-2 1 2z"/>
+	<path id="Layer" class="s22" d="m2034 1311l2-1 1 2-2 1zm-1347-1117h2v1z"/>
+	<path id="Layer" class="s2" d="m236 892l6 7-5 4-8-7z"/>
+	<path id="Layer" class="s8" d="m2062 1230l-12-15 10-14 10 10zm289-70l2 14-8-5z"/>
+	<path id="Layer" class="s2" d="m1727 659l-8-11 7-8 7 8z"/>
+	<path id="Layer" class="s4" d="m2133 1056l5 4-3 8z"/>
+	<path id="Layer" class="s13" d="m229 896l7-4 6 7-5 4z"/>
+	<path id="Layer" class="s10" d="m2135 1068l-2-12 5 4z"/>
+</svg>
